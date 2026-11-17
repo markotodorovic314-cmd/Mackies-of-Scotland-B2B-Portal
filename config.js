@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/traditional.webp",
   "heroImage2": "assets/honeycomb.webp",
   "heroCaption": "A little taste of Scotland",
-  "buyer": "The Harbour Café",
+  "buyer": "Heather Glen Café",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
